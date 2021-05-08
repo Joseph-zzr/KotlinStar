@@ -7,6 +7,8 @@ import java.util.ArrayList;
  * 腾讯的笔试题目阿巴阿巴阿巴阿巴阿巴
  * 腾讯的笔试题目阿巴阿巴阿巴阿巴阿巴
  * 腾讯的笔试题目阿巴阿巴阿巴阿巴阿巴
+ *
+ * hox-fix text
  */
 public class Solution12 {
     public static void main(String[] args) {
