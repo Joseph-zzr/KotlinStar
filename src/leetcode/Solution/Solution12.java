@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 /*
  *字符串全排列
+ * 腾讯的笔试题目阿巴阿巴阿巴阿巴阿巴
  */
 public class Solution12 {
     public static void main(String[] args) {
