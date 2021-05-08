@@ -12,6 +12,8 @@ import java.util.ArrayList;
  * master push
  *
  * hox-fix text
+ * hox-fix text
+ * hox-fix text
  */
 public class Solution12 {
     public static void main(String[] args) {
